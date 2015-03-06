@@ -1,1 +1,3 @@
-A small hobby of self-practicing datastructures. (-_-)
+A small hobby of self-practicing datastructures for controlling emotions. (-_-)
+<br> <br>
+FYI-- not an active repo
