@@ -1,4 +1,4 @@
-class ArrayStack < ArrayStack
+class ArrayStack < Stack
 	def init(size = 0)
 		super()
 		@array = Array.new(size)
